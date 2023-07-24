@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.rmd linguist-detectable=True
+*.Rmd linguist-detectable=True
