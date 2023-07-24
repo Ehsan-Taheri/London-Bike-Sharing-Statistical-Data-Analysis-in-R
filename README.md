@@ -11,5 +11,4 @@ Welcome to the "London Bike Sharing Dataset - Statistical Data Analysis" reposit
 The London Bike Sharing Dataset is a rich collection of bike-sharing data collected from various bike rental stations in London. It includes information such as trip duration, start and end times, user types, and more. The dataset is provided in CSV format and is made available on Kaggle, a well-known platform for data science and machine learning enthusiasts.
 
 ## 🔗 Dataset Source: 
-[![London Bike Sharing Dataset on Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
-
+[London Bike Sharing Dataset on Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
