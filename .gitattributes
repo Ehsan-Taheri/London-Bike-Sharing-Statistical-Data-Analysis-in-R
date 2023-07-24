@@ -2,3 +2,5 @@
 *.Rmd linguist-detectable=True
 *.Rproj linguist-detectable=True
 
+*.pdf linguist-detectable=True
+
