@@ -1,1 +1,1 @@
-![London Bike Sharing Project]([http://url/to/img.png](https://betterbikeshare.org/wp-content/uploads/2022/01/40894227632_bd8042d89a_o.jpeg)https://betterbikeshare.org/wp-content/uploads/2022/01/40894227632_bd8042d89a_o.jpeg)
+![London Bike Sharing Project](https://betterbikeshare.org/wp-content/uploads/2022/01/40894227632_bd8042d89a_o.jpeg)
