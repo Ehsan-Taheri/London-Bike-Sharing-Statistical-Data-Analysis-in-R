@@ -14,12 +14,13 @@ The London Bike Sharing Dataset is a rich collection of bike-sharing data collec
 # Committed files detail
 
 **Codes are written in R**  
-R markdown Project.Rmd : **The main project codes in Rmarkdown**
+ 
+[R markdown Project.Rmd](https://github.com/pouyasattari/Statistical-Data-Analysis-London-Bike-Sharing-Dataset/blob/main/R%20markdown%20Project.Rmd) : **The main project codes in Rmarkdown**
+ 
+[Project-edited.pdf](https://github.com/pouyasattari/Statistical-Data-Analysis-London-Bike-Sharing-Dataset/blob/main/Project-edited.pdf) : **Rmarkdown in PDF view**
 
-Project-edited.pdf : **Rmarkdown in PDF view**
+[Technical Report.pdf](https://github.com/pouyasattari/Statistical-Data-Analysis-London-Bike-Sharing-Dataset/blob/main/%20Technical%20Report.pdf)  : **Report of Project + Graph insights**
 
-Technical Report.pdf : **Report of Project + insigts**
+[London Bike Sharing_Presentation.pdf](https://github.com/pouyasattari/Statistical-Data-Analysis-London-Bike-Sharing-Dataset/blob/main/London%20Bike%20Sharing_Presentation.pdf) : **Presentation File**
 
-London Bike Sharing_Presentation.pdf : **Presentation File**
-
-london_merged.csv : **Dataset File**
+[london_merged.csv](https://github.com/pouyasattari/Statistical-Data-Analysis-London-Bike-Sharing-Dataset/blob/main/london_merged.csv) : **Dataset File**
