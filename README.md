@@ -12,7 +12,8 @@ The London Bike Sharing Dataset is a rich collection of bike-sharing data collec
  🔗 Dataset Source:  [London Bike Sharing Dataset on Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 
 # Codes on Kaggle
-You can see the codes and the result of the project as well as viewer's comments on [Kaggle](https://www.kaggle.com/code/pouyasattari/eda-xgboost-random-forest-outlier-removed). 
+You can see the codes and the result of the project as well as viewer's comments on [Kaggle - EDA+XGboost, Random Forest (Outlier removed)
+](https://www.kaggle.com/code/pouyasattari/eda-xgboost-random-forest-outlier-removed). 
 
 
 
