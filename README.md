@@ -2,7 +2,7 @@
   <h2><em>🚴 Welcome to the "London bike Sharing Dataset - Statistical Data Analysis" repository! </em></h2>
 </p>
 
-![London Bike Sharing Project](https://betterbikeshare.org/wp-content/uploads/2022/01/40894227632_bd8042d89a_o.jpeg)
+![London Bike Sharing Project](https://sattari.org/wp-content/uploads/2024/01/Cycle.jpg)
 
 # 💬 Overview
 Welcome to the "London Bike Sharing Dataset - Statistical Data Analysis" repository! This project aims to perform a comprehensive statistical data analysis of the London bike-sharing dataset, which is sourced from Kaggle. The dataset contains valuable information about bike trips taken in London, and through our analysis, we seek to gain insights into bike usage patterns, user behavior, and more.
